@@ -23,7 +23,7 @@
 		"@types/wordpress__blocks": "12.5.13",
 		"@typescript-eslint/eslint-plugin": "6.21.0",
 		"@typescript-eslint/parser": "6.21.0",
-		"@wordpress/block-editor": "12.19.1",
+		"@wordpress/block-editor": "13.3.0",
 		"@wordpress/env": "9.3.0",
 		"@wordpress/scripts": "27.2.0",
 		"@wordpress/url": "3.52.0",
@@ -48,7 +48,7 @@
 		"webpack-virtual-modules": "0.6.1"
 	},
 	"dependencies": {
-		"@wordpress/block-editor": "12.19.1",
+		"@wordpress/block-editor": "13.3.0",
 		"@wordpress/blocks": "12.28.1",
 		"@wordpress/element": "5.28.0",
 		"@wordpress/i18n": "4.51.0",
